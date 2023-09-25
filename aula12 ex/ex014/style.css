@@ -3,11 +3,6 @@ body {
   font: normal 15pt Arial;
   text-align: center;
   background-image: linear-gradient(90deg, #465a60, #10171f);
-
-}
-
-header {
-
 }
 
 section {
@@ -21,8 +16,4 @@ section {
 
 #imagem {
   width: 240px;
-}
-
-footer {
-
 }
