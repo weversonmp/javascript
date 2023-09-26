@@ -17,3 +17,5 @@ for (let i = 0; i < num.length; i++) {
 ;
   
 }
+
+let pos = num.indexOf(8)
