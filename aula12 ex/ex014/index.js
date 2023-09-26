@@ -2,7 +2,7 @@ let msg = document.getElementById('msg');
 let img = document.getElementById('imagem');
 let sec = document.getElementById('main-section')
 let data = new Date();
-let hora = 19;
+let hora = data.getHours();
 msg.innerHTML = `Agora são ${hora} horas.`;
 
 if (hora >= 0 && hora < 12) {
